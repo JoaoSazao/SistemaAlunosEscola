@@ -74,7 +74,7 @@ Idade: 22
 ----------------
 ```
 
-#👨‍💻 Autor
+# 👨‍💻 Autor
 
 Desenvolvido por João Victor
 Estudante de Engenharia de Software
